@@ -1,0 +1,21 @@
+import enum
+
+class Party(enum.Enum):
+    ACCORD = "Accord"
+    AA = "Action Alliance"
+    ADP = "Action Democratic Party"
+    APP = "Action Peoples Party"
+    AAC = "African Action Congress"
+    ADC = "African Democratic Congress"
+    APC = "All Progressives Congress"
+    APGA = "All Progressives Grand Alliance"
+    APM = "Allied Peoples Movement"
+    BP = "Boot Party"
+    LP = "Labour Party"
+    NRM = "National Rescue Movement"
+    NNPP = "New Nigeria Peoples Party"
+    PDP = "Peoples Democratic Party"
+    PRP = "Peoples Redemption Party"
+    SDP = "Social Democratic Party"
+    YPP = "Young Progressives Party"
+    ZLP = "Zenith Labour Party"
